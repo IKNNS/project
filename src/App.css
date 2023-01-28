@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Border{
+        background-color: aliceblue;
+        border: dotted 2px rgb(66, 232, 238);
+        width: 150px;
+        height: 160px;        
+}
+
+.container {
+  display: flex; /* or inline-flex */
+}
+
+.background{
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 888;
+}
